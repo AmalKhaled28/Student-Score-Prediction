@@ -14,8 +14,8 @@
 ## Key Findings
 - **Hours Studied** and **Attendance** are the **strongest predictors**
 - **Polynomial Regression (deg 2)** beats Linear:
-- **R² = 93.71%**
-- **Linear Regression**: R² = 91.48%
+  - **R² = 93.71%**
+  - **Linear Regression**: R² = 91.48%
 
 ---
 
